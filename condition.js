@@ -48,10 +48,6 @@
 
 
 
-
-
-
-
 // const money =200;
 // if(money <=150){
 //     console.log("apni tow boro lok");
@@ -70,3 +66,4 @@
 
 
 
+ 
